@@ -13,6 +13,7 @@
     "format": "prettier --write --experimental-cli src/"
   },
   "dependencies": {
+    "flowbite": "^4.0.2",
     "vue": "rc",
     "vue-router": "^5.3.1"
   },
